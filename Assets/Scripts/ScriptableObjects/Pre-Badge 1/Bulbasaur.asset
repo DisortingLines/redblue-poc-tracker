@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76eef4d31ef52f14c80efea01868aafe, type: 3}
+  m_Name: Bulbasaur
+  m_EditorClassIdentifier: 
+  dexNo: 1
+  monName: Bulbasaur
+  evoLevel: 16
+  exclusivity: 2
+  isObtained: 0
+  uncheckedSprite: {fileID: -4863870213865963895, guid: 586d5896b85765e468ea09582d9045e5, type: 3}
+  checkedSprite: {fileID: -7436269925747051269, guid: 586d5896b85765e468ea09582d9045e5, type: 3}
+  isChoice: 0
